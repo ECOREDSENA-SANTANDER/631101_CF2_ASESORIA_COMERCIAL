@@ -99,29 +99,6 @@ export default {
         desarrolloContenidos: true,
         subMenu: [],
       },
-      {
-        nombreRuta: 'tema5',
-        numero: '5',
-        titulo: 'ELIMINAR AL FINAL',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '5.1',
-            titulo: 'Tipos de bases de datos',
-            hash: 't_5_1',
-          },
-          {
-            numero: '5.2',
-            titulo: 'Estructura de una base de datos',
-            hash: 't_5_2',
-          },
-          {
-            numero: '5.3',
-            titulo: 'Manejo de una base de datos',
-            hash: 't_5_3',
-          },
-        ],
-      },
     ],
     subMenu: [
       {

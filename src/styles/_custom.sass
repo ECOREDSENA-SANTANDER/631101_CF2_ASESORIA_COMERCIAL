@@ -153,7 +153,8 @@
   margin-inline: -3rem
   @media screen and (max-width: 992px)
     margin-inline: -1.4rem
-
+.bg33
+  background-color: #BE79CA
 .mbt
   margin-top: -15%
   margin-bottom: -15% 
@@ -308,6 +309,14 @@
   @media screen and (max-width: 992px)
     margin-inline: -1.4rem
 
+.fondo3
+  background: url('../assets/curso/temas/Tema3/fondo.png')
+  background-size: 100% 100%
+  background-repeat: no repeat
+  position: relative
+  top: 5px
+  z-index: 0
+  border-radius: 20px
 
 
 .bg77
@@ -371,10 +380,10 @@
   background-color: #fff
 
 .fa-chevron-right:before 
-    content: url('../assets/curso/temas/der.png')
+    content: url('../assets/curso/temas/Tema1/der.png')
 
 .fa-chevron-left:before 
-    content: url('../assets/curso/temas/iz.png')
+    content: url('../assets/curso/temas/Tema1/izq.png')
 
 
 
@@ -431,11 +440,12 @@
   .slyder-a__btn--sigt, .slyder-a__btn--atrs
     width: 30px
     height: 30px
-
+.bloque-texto-d.color-acento-contenido:before 
+    background-color: #DED8EB
 .slyder-a__btn--sigt, .slyder-a__btn--atrs 
     width: 50px
     height: 50px
-    background-color: #FFD947
+    background-color: #ffc107
     border-radius: 50%
     background-repeat: no-repeat
     background-size: 16px 24px
@@ -452,3 +462,83 @@
   background-size: 100% 100%
   background-repeat: no-repeat
   background-position: cover
+
+// TARJETA HOVER  
+.nav-holder2
+  display: inline-block
+  overflow: hidden
+  position: relative
+  border-radius: 25px
+  -webkit-transform: translateZ(0)
+  -moz-transform: translateZ(0)
+  transform: translateZ(0)
+.nav-holder2 *, .nav-holder2 *:before, .nav-holder2 *:after
+  -webkit-box-sizing: border-box
+  -moz-box-sizing: border-box
+  box-sizing: border-box
+  -webkit-transition: all 0.45s ease
+  -moz-transition: all 0.45s ease
+  transition: all 0.45s ease
+.nav-holder2:before
+  position: absolute
+  top: -13%
+  bottom: 0
+  left: 0
+  right: 0
+  content: ''
+  background-color: #6E3DC6
+  opacity: 1
+  z-index: 888
+  -webkit-transition: all 0.45s ease
+  -moz-transition: all 0.45s ease
+  -ms-transition: all 0.45s ease
+  transition: all 0.45s ease
+  -webkit-transform: translateY(80%)
+  -moz-transform: translateY(80%)
+  transform: translateY(80%)
+.nav-holder2:hover:before
+  -webkit-transform: translateY(30%)
+  -moz-transform: translateY(30%)
+  transform: translateY(30%)
+  opacity: 1
+  -webkit-transition-delay: 0.1s
+  -moz-transition-delay: 0.1s
+  transition-delay: 0.1s
+  background-color: #BE79CA
+.nav-holder2
+  .text
+    position: absolute
+    top: 70%
+    bottom: 0px
+    left: 0px
+    right: 0px
+    z-index: 999
+    bottom: 0
+    padding: 1em
+  img
+    backface-visibility: hidden
+    max-width: 100%
+    vertical-align: top
+    z-index: 0
+  p
+    margin: 0
+    opacity: 0
+    line-height: 1.2em
+.nav-holder2 h4
+  margin: 0
+  opacity: 1
+.nav-holder2:hover
+  .text
+    top: 25%
+  h4, p
+    opacity: 1
+    color: $color-sistema-texto
+@media (max-width: $bp-max-xs)    
+  .nav-holder2 .text
+    top: 75%
+  .nav-holder2:hover .text 
+    top: 24%
+  .nav-holder2:hover:before
+    -webkit-transform: translateY(30%)
+    -moz-transform: translateY(30%)
+    transform: translateY(30%)
