@@ -71,8 +71,8 @@
     
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/50E2sAVgx5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-      figcaption Video: Prospección de clientes: Introducción
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/elZYn3fXeMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: Prospección de clientes: Mercado de consumo 
     .py-2
     p INSTIPP (2020, p. 38) también indica que estos mercados son aquellos en donde se realizan transacciones de bienes y servicios que se adquieren a través de los productos finales de consumo, los cuales a su vez se pueden clasificar en tres categorías principales:
     

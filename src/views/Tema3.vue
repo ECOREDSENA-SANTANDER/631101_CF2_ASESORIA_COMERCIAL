@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Segmentación del mercado
+      h1 Clasificación de clientes
     
     p.mb-3 Desde la perspectiva del mercadeo, existen dos grupos principales de clientes: los clientes actuales y los potenciales. Estos se explican a continuación: 
 

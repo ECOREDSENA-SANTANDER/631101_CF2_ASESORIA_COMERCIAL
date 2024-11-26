@@ -147,211 +147,167 @@ export default {
   },
   complementario: [
     {
-      tema: '1.1.	Comprender el mercado y al cliente',
+      tema: '1. El cliente',
       referencia:
-        'QuestioPro. (s.f.). El mercado y las necesidades del cliente en la investigación (Parte I). ',
+        'Quiroa, M. (2021). Cliente. Economipedia. https://economipedia.com/definiciones/cliente.html ',
+      tipo: 'Página web',
+      link: 'https://economipedia.com/definiciones/cliente.html',
+    },
+    {
+      tema: '1. El cliente',
+      referencia:
+        'Pursell, S. (2021). Clientes potenciales: qué son, qué tipos existen y cómo identificarlos. HobSpot. https://blog.hubspot.es/marketing/tipos-de-clientes-potenciales ',
+      tipo: 'Página web',
+      link: 'https://blog.hubspot.es/marketing/tipos-de-clientes-potenciales ',
+    },
+    {
+      tema: '1.1. Mercado de consumo',
+      referencia:
+        'Pacheco, J. (2020). Web y empresas. Mercado de Consumo (definición, características y clasificación). Web y empresa. https://www.webyempresas.com/mercado-de-consumo-definicion-caracteristicas-y-clasificacion/ ',
       tipo: 'Página web',
       link:
-        'https://www.questionpro.com/blog/es/mercado-y-necesidades-del-cliente/',
+        'https://www.webyempresas.com/mercado-de-consumo-definicion-caracteristicas-y-clasificacion/',
     },
     {
-      tema: '1.2.	Mezcla de mercadeo',
-      referencia: 'Coll, F. (2021). Mezcla de mercadotecnia. Economipedia.',
+      tema: '2. Relación del mercado y los clientes',
+      referencia:
+        'González, M. (2002). Concepto de mercado y sus tipos. Gestiopolis. https://www.gestiopolis.com/concepto-mercado-tipos/ ',
+      tipo: 'Página web',
+      link: 'https://www.gestiopolis.com/concepto-mercado-tipos/',
+    },
+    {
+      tema: '2.1. Atraer clientes',
+      referencia:
+        'Quiroa, M. (2020). Captación de clientes. Economipedia. https://economipedia.com/definiciones/captacion-de-clientes.html ',
+      tipo: 'Página web',
+      link: 'https://economipedia.com/definiciones/captacion-de-clientes.html',
+    },
+    {
+      tema: '2.3. Fidelizar clientes',
+      referencia:
+        'Escamilla , G. (2020). Fidelización del cliente: concepto, importancia, consejos y métricas. RD Station. https://www.rdstation.com/co/blog/fidelizacion-del-cliente/ ',
+      tipo: 'Página web',
+      link: 'https://www.rdstation.com/co/blog/fidelizacion-del-cliente/ ',
+    },
+    {
+      tema: '3. Clasificación de clientes',
+      referencia:
+        'Bee Digital. (2020). Tipos de clientes: características y cómo tratarlos. https://www.beedigital.es/experiencia-de-cliente/tipos-de-clientes-caracteristicas/ ',
       tipo: 'Página web',
       link:
-        'https://economipedia.com/definiciones/mezcla-de-mercadotecnia.html ',
+        'https://www.beedigital.es/experiencia-de-cliente/tipos-de-clientes-caracteristicas/',
     },
     {
-      tema: '1.2.3. Canales de distribución',
+      tema: '4. Prospección de los clientes',
       referencia:
-        'Rodríguez, I., Maraver, G. & Martínez, F. (s.f.). Canales de distribución. Universitat Oberta de Catalunya. ',
-      tipo: 'Artículo',
-      link:
-        'http://cv.uoc.edu/annotation/e278f6575e9eb38a49450e18f778004e/607706/PID_00195275/PID_00195275.html ',
-    },
-    {
-      tema: '1.2.3. Canales de distribución',
-      referencia: 'Comercionista. (2020). Tipos de mayoristas.',
+        'Da Silva (2020). Zendesk. Qué es prospección de clientes y 5 claves para implementar su estrategia. Zendesk. https://www.zendesk.com.mx/blog/que-es-prospeccion-clientes/ ',
       tipo: 'Página web',
-      link: 'https://www.comercionista.com/compras/que-es-un-mayorista-tipos/ ',
-    },
-    {
-      tema: '2.	Mercados. ',
-      referencia: 'Quiroga, M. (2020). Mercado. Economipedia. ',
-      tipo: 'Página web',
-      link: 'https://economipedia.com/definiciones/mercado.html ',
-    },
-    {
-      tema: '2.4. Características del mercado.',
-      referencia: 'Máxima, A. (2019). Características del mercado. ',
-      tipo: 'Página web',
-      link: 'https://www.caracteristicas.co/mercado/#ixzz74Q1rHzhJ ',
-    },
-    {
-      tema: '2.7. Pasos para definir el mercado.',
-      referencia:
-        'WixBlog. (2020). Mercado meta: Qué es, como definirlo y ejemplos. ',
-      tipo: 'Página web',
-      link:
-        'https://es.wix.com/blog/2020/12/mercado-meta-que-es-como-definirlo-y-ejemplos',
-    },
-    {
-      tema: '3.	Segmentos del mercado.',
-      referencia:
-        'Núñez, V. (2019). ¿Qué es la segmentación del mercado y cómo potencia tu estrategia de marketing? ',
-      tipo: 'Página web',
-      link: 'https://vilmanunez.com/segmentacion-del-mercado/ ',
-    },
-    {
-      tema: '4.	Técnicas de recolección de datos.',
-      referencia:
-        'QuestionPro. (s.f.). ¿Qué es la recolección de datos y cómo realizarla? ',
-      tipo: 'Página web',
-      link:
-        'https://www.questionpro.com/blog/es/recoleccion-de-datos-para-investigacion/ ',
-    },
-    {
-      tema: '4.1.	Técnicas',
-      referencia:
-        'Westreicher, G. (2021). Recolección de datos. Economipedia. ',
-      tipo: 'Página web',
-      link: 'https://economipedia.com/definiciones/recoleccion-de-datos.html ',
-    },
-    {
-      tema: '4.1. Técnicas',
-      referencia: 'QuestioPro. (s.f.). Encuesta. ',
-      tipo: 'Página web',
-      link: 'https://www.questionpro.com/es/una-encuesta.html#que_es_encuesta',
-    },
-    {
-      tema: '4.2.	Instrumentos para la recolección de información',
-      referencia:
-        'Díaz-Bravo, L., Torruco-García, U., Martínez-Hernández, M., y Varela-Ruiz, M. (2013). La entrevista, recurso flexible y dinámico. Investigación en Educación Médica, 2(7), 162-167.',
-      tipo: 'Artículo',
-      link:
-        'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009 ',
-    },
-    {
-      tema: '5.	Bases de datos.',
-      referencia:
-        'Nota Tecnológica. (s.f.). Estructura de una base de datos: normalización y más. ',
-      tipo: 'Página web',
-      link:
-        'https://notatecnologica.com/tecnologia/estructura-de-una-base-de-datos/ ',
-    },
-  ],
-  glosario: [
-    {
-      termino: 'Base de datos',
-      significado:
-        'herramienta fundamental en el entorno informático hoy en día y tienen aplicación en la práctica como los negocios, organizaciones y en la vida personal. Su aplicabilidad responde a la necesidad de gestionar datos que provean información pertinente.',
-    },
-    {
-      termino: 'Encuesta',
-      significado:
-        '“Las encuestas son un método de investigación y recopilación de datos utilizadas para obtener información a un grupo de individuos sobre diversos temas” (QuestionPro, s.f.). ',
-    },
-    {
-      termino: 'Entrevista',
-      significado:
-        'charla en la que una persona hace a otra una serie de preguntas sobre un tema determinado. ',
-    },
-    {
-      termino: 'Mercadeo',
-      significado:
-        '“Es un proceso mediante el cual las empresas crean valor para sus clientes y generan fuertes relaciones con ellos para, en reciprocidad, captar valor de los clientes” (Kotler y Armstrong, 2013, p. 35).',
-    },
-    {
-      termino: 'Mercado',
-      significado:
-        '“El mercado es un proceso que opera cuando hay personas que actúan como compradores y otras como vendedores de bienes y servicios, generando la acción del intercambio” (Quiroga, 2020).',
-    },
-    {
-      termino: 'Observación',
-      significado:
-        '“Es una técnica que consiste en observar atentamente el fenómeno, hecho o caso, tomar información y registrarla para su posterior análisis” (Pereda, 2017).',
-    },
-    {
-      termino: 'Posicionamiento',
-      significado:
-        '“Una posición de producto es la forma en que un producto está definido por los consumidores en atributos importantes, el lugar que ocupa en la mente de los consumidores respecto a los productos competidores” (Kotler y Armstrong, 2013).',
-    },
-    {
-      termino: 'Segmentación',
-      significado:
-        'proceso de dividir un mercado en grupos de clientes potenciales con necesidades y/o características similares y que pueden requerir un producto diferente y/o una forma de comunicación diferente.',
-    },
-    {
-      termino: 'Ventas',
-      significado:
-        'actividades relacionadas con la venta o la cantidad de bienes vendidos en un período de tiempo determinado. La entrega de un servicio por un costo también se considera una venta.',
+      link: 'https://www.zendesk.com.mx/blog/que-es-prospeccion-clientes/',
     },
   ],
   referencias: [
     {
       referencia:
-        'Arellano, C., R. (2010). Marketing enfoque América Latina. Pearson Prentice Hall.',
+        'Agüero, C. (2014). Estrategia de fidelización de clientes. Universidad de Cantabria.',
       link: '',
     },
     {
       referencia:
-        'Caro, L. (2019). 7 Técnicas e Instrumentos para la Recolección de Datos. Lifeder.',
-      link: 'https://www.lifeder.com/tecnicas-instrumentos-recoleccion-datos/ ',
+        'Escamilla, G. (2020). Fidelización del cliente: concepto, importancia, consejos y métricas. RD Station.',
+      link: 'https://www.rdstation.com/co/blog/fidelizacion-del-cliente/ ',
     },
     {
       referencia:
-        'Díaz-Bravo, L., Torruco-García, U., Martínez-Hernández, M., y Varela-Ruiz, M. (2013). La entrevista, recurso flexible y dinámico.',
+        'González, M. (2002). Concepto de mercado y sus tipos. Gestiópolis.',
+      link: 'https://www.gestiopolis.com/concepto-mercado-tipos/',
+    },
+    {
+      referencia:
+        'González Camacho, M. (2018). Segmentación, Definición de Público Objetivo y Posicionamiento. [presentación] Universidad Interamericana para el desarrollo. ',
       link:
-        'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009',
+        'http://docplayer.es/53991436-Segmentacion-definicion-de-publico-objetivo-y-posicionamiento.html ',
     },
     {
       referencia:
-        'Fano, F. (2015). ¿Qué es estrategia? El pensamiento de Michael E. Porter. Mejora Competitiva.',
+        'Gronroos, C. (1994). Marketing y Gestión de servicios. Diaz de Santos. 1a Edición.',
+      link: '',
+    },
+    {
+      referencia:
+        'Hatch, H. (2016). La fidelización de clientes no sólo tiene forma de tarjeta. ',
+      link: 'https://soy.marketing/la-fidelizacion-de-clientes/ ',
+    },
+    {
+      referencia:
+        'INSTIPP. (2020). Marketing. Instituto Superior Tecnológico Ismael Pérez Pazmiño. ',
       link:
-        'https://uv.unitec.edu/MarcoestrategicodeempresasMB74101/lectura/S101/3/',
-    },
-    {
-      referencia: 'Goñi, Á., N. (2008). El precio. Pearson Prentice Hall.',
-      link: '',
+        'http://instipp.edu.ec/instipp/assets/pdf/guias/contabilidad/CO-S5-MK.pdf',
     },
     {
       referencia:
-        'Kendall, K., y Kendall, J. (2011). Análisis y diseño de sistemas. Pearson Education. ',
-      link: '',
+        'Promove Consultoría e formación SLNE. (2012). Atraer y fidelizar clientes. CEEI Galicia. ',
+      link: 'https://issuu.com/josevalencia/docs/atraer_y_fidelizar_clientes',
     },
     {
       referencia:
-        'Kerin. H., y Rudelius, W. (2014). Marketing. McGraw Hill Education. 11a Edición.',
-      link: '',
+        'Pursell, S. (2021). Clientes potenciales: qué son, qué tipos existen y cómo identificarlos. HobSpot. ',
+      link: 'https://blog.hubspot.es/marketing/tipos-de-clientes-potenciales ',
+    },
+    {
+      referencia: 'Quiroa, M. (2020). Cliente. Economipedia. ',
+      link: ' https://economipedia.com/definiciones/cliente.html',
     },
     {
       referencia:
-        'Kotler, P., y Armstrong, G. (2013). Fundamentos de marketing. Pearson Prentice Hall.',
-      link: '',
-    },
-    {
-      referencia:
-        'Kotler, P., y Armstrong, G. (2012). Marketing. Pearson Prentice Hall.',
-      link: '',
-    },
-    {
-      referencia: 'Pereda, G (2017). Métodos y técnicas de investigación.',
+        'Redacción emprendedores (2021). ¿Qué significa modelo de negocio? Emprendedores.es. ',
       link:
-        'https://es.slideshare.net/guillermopereda/mtodos-y-tcnicas-de-investigacin-79785371',
+        'https://www.emprendedores.es/estrategia/que-significa-modelo-de-negocio/',
     },
     {
-      referencia: 'QuestioPro. (s.f.). Encuesta.',
-      link: 'https://www.questionpro.com/es/una-encuesta.html#que_es_encuesta',
-    },
-    {
-      referencia:
-        'Santesmases, M., Valderrey, F., y Sánchez, A. (2014). Fundamentos de mercadotecnia. Grupo Editorial Patria.',
+      referencia: 'Schnarch, A. (2013). Marketing para pymes. Alfa Omega. ',
       link: '',
     },
     {
       referencia:
-        'Stanton, W., Etzel, M., y Walker, B. (2007). Fundamentos de marketing. McGraw Hill Education.',
+        'Torres Morales, V. (2014). Administración de ventas. Grupo Editorial Patria.',
       link: '',
+    },
+  ],
+  glosario: [
+    {
+      termino: 'Cliente',
+      significado:
+        'es la persona o entidad que accede a un producto o servicio por medio de una transacción financiera (dinero) u otro medio de pago.',
+    },
+    {
+      termino: 'Fidelizar',
+      significado:
+        'una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a lo largo del tiempo (Hatch, 2016).',
+    },
+    {
+      termino: 'Mercado de consumo',
+      significado:
+        'se compone por todas aquellas personas que adquieren o compran bienes y servicios y luego lo utilizan para  satisfacer sus necesidades finales.',
+    },
+    {
+      termino: 'Modelo de negocio',
+      significado:
+        'es una herramienta previa al plan de negocio que te permitirá definir con claridad qué vas a ofrecer al mercado, cómo lo vas a hacer, a quién se lo vas a vender, cómo se lo vas a vender y de qué forma vas a generar ingresos. (Redacción emprendedores, 2021).',
+    },
+    {
+      termino: 'Prospecto',
+      significado:
+        'es un cliente potencial que encaja con las características del cliente ideal, dispone de los medios para comprar (dinero) y está autorizado a tomar decisiones de compra.',
+    },
+    {
+      termino: 'Retener',
+      significado:
+        'sucede cuando una empresa planifica un conjunto de estrategias de fidelización y acciones con la finalidad de mantener a los clientes actuales a largo plazo.',
+    },
+    {
+      termino: 'Segmento de mercado',
+      significado:
+        'es un grupo de consumidores, en su mayoría homogéneo, ya sea por determinadas características o por sus necesidades, los cuales son identificados como un mercado que presenta deseos o hábitos de compra parecidas y que potencialmente responderían similar a la estrategia desarrollada por el mix de marketing. (Quiroa, 2020)',
     },
   ],
   creditos: [
@@ -379,9 +335,9 @@ export default {
           centro: 'Centro de Comercio y Servicio - Regional Bolívar',
         },
         {
-          nombre: 'Zenith Chinchilla Ruedas',
-          cargo: 'Diseñador instruccional',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          nombre: 'Miroslava González Hernández',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Centro de Gestión Industrial Regional Distrito Capital',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
@@ -395,10 +351,10 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'José Gabriel Ortiz Abella',
-          cargo: 'Corrector de estilo',
+          nombre: 'Jhana Johanna Bustillo Ardila',
+          cargo: 'Revisión de estilo',
           centro:
-            'Centro de para la Comunicación de la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+            'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
         {
           nombre: 'Carolina Jiménez Suescún',

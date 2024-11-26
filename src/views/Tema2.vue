@@ -14,13 +14,13 @@
         p El #[em marketing] relacional de acuerdo con Gronroos (1994), es el “conjunto de relaciones a largo plazo que las empresas pretenden crear, mantener y fomentar con clientes, con el objetivo de alcanzar una relación sólida y duradera, mantener el mayor número de negocios con sus clientes y obtener el mayor beneficio” (p.142). 
         p La empresa utiliza herramientas de mercadeo y su portafolio de ofertas para encontrar la mejor manera de crear valor, lo que fomenta una relación a largo plazo con el cliente. A continuación, se presentan aspectos básicos de la gestión de clientes, incluyendo cómo captarlos y fidelizarlos a través del desarrollo de acciones promocionales y la atención a sus quejas y reclamaciones. 
 
-    p De acuerdo con esto, Gronroos (1990) (en Agüero, 2014, p. 8), propone las siguientes funciones del marketing relacional que debe llevar una empresa:
+    p De acuerdo con esto, Gronroos (1990) (en Agüero, 2014, p. 8), propone las siguientes funciones del #[em marketing] relacional que debe llevar una empresa:
     
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-10
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 6. 
-          | Funciones del marketing relacional
+          | Funciones del #[em marketing] relacional
         img(src='@/assets/curso/temas/Tema2/img01.svg' alt='')
     .py-3
     p Con base en lo anterior, se concluye que toda empresa que quiera alcanzar el éxito dentro del mercado debe enfocarse en el cliente. 
@@ -226,13 +226,13 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/50E2sAVgx5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-      figcaption Video: Prospección de clientes: Introducción
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Qqms7iMOcu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: Retener clientes: Fidelizar clientes 
     .py-3
     p La empresa debe incluir en su plan de fidelización programas que procuren mantener un vínculo de comunicación entre la empresa y los clientes. Entre los más utilizados se encuentran los siguientes.
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-4.col-md-6.mb-3.mb-md-0
+      .col-lg-4.col-md-8.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img12.png", alt="")
@@ -241,7 +241,7 @@
                 h4.mt-3.mb-3.text-white Tarjetas de fidelización
                 p.px-4 Se trata de premiar el consumo con obsequios. Este tipo de tarjetas ofrecen a los titulares una serie de ventajas adicionales como descuentos, puntos canjeables por regalos e incluso la devolución de un tanto por ciento de sus compras.
       
-      .col-lg-4.col-md-6.mb-3.mb-md-0
+      .col-lg-4.col-md-8.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img13.png", alt="")
@@ -249,7 +249,7 @@
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
                 h4.mt-3.mb-3.text-white Cupones de descuento
                 p.px-4 El usuario puede recortar un cupón y obtendrá una rebaja en el precio de algún producto o servicio del establecimiento.
-      .col-lg-4.col-md-6.mb-3.mb-md-0
+      .col-lg-4.col-md-8.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img14.png", alt="")
@@ -258,7 +258,7 @@
                 h4.mt-3.mb-3.text-white Regalos
                 p.px-4 El cliente recibe un regalo, vinculado o no a la actividad de la empresa, y es ofrecido en agradecimiento a la compra o uso de un producto o servicio del establecimiento. También se pueden dar por fechas especiales.
       
-      .col-lg-4.col-md-6.mb-3.mb-md-0
+      .col-lg-4.col-md-8.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img15.png", alt="")
@@ -267,7 +267,7 @@
                 h4.mt-3.mb-3.text-white Puntos de compra
                 p.px-4 Permiten obtener una serie de beneficios en tiempo real. Como la estrategia de los Almacenes Éxito “Puntos Colombia”.
       
-      .col-lg-4.col-md-6.mb-3.mb-md-0
+      .col-lg-4.col-md-8.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img16.png", alt="")
@@ -276,7 +276,7 @@
                 h4.mt-3.mb-3.text-white Gestionar clientes a través de Apps
                 p.px-4 Una aplicación en el móvil permite interactuar con los clientes. A este tipo de aplicaciones, se les puede añadir diferentes funcionalidades, como por ejemplo, una búsqueda de clientes para así, tenerlo todo ordenado y clasificado, según categorías o intereses.
       
-      .col-lg-4.col-md-6.mb-3.mb-md-0
+      .col-lg-4.col-md-8.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img17.png", alt="")
@@ -285,7 +285,7 @@
                 h4.mt-3.mb-3.text-white Comunicación personalizada
                 p.px-4 Envío directo al cliente de ofertas con descuento exclusivo y personalizado.
       
-      .col-lg-4.col-md-6.mb-3.mb-md-0
+      .col-lg-4.col-md-8.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img18.png", alt="")
@@ -294,7 +294,7 @@
                 h4.mt-3.mb-3.text-white C.R.M
                 p.px-4 Montado para tener comunicaciones más fluidas y directas con los clientes.
       
-      .col-lg-4.col-md-6.mb-3.mb-md-0
+      .col-lg-4.col-md-8.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img19.png", alt="")
