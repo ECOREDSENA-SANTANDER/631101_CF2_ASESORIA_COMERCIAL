@@ -239,12 +239,6 @@ export default {
     },
     {
       referencia:
-        'INSTIPP. (2020). Marketing. Instituto Superior Tecnológico Ismael Pérez Pazmiño. ',
-      link:
-        'http://instipp.edu.ec/instipp/assets/pdf/guias/contabilidad/CO-S5-MK.pdf',
-    },
-    {
-      referencia:
         'Promove Consultoría e formación SLNE. (2012). Atraer y fidelizar clientes. CEEI Galicia. ',
       link: 'https://issuu.com/josevalencia/docs/atraer_y_fidelizar_clientes',
     },
@@ -387,7 +381,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
