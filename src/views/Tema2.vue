@@ -21,7 +21,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 6. 
           | Funciones del #[em marketing] relacional
-        img(src='@/assets/curso/temas/Tema2/img01.svg' alt='')
+        img(src='@/assets/curso/temas/Tema2/img01.svg' alt='El <i>marketing</i> relacional debe potenciar que los clientes aumenten el número de compras y traigan nuevos clientes. Es fundamental identificar a los clientes y conocer en profundidad sus necesidades y deseos. Captar implica ofrecer los productos de la empresa al público objetivo, según la información recibida de la fase de identificación. Satisfacer a los clientes potenciales con productos es clave para que se conviertan en clientes reales. Retener clientes es el objetivo principal: se debe lograr que sean fieles, estén totalmente satisfechos y se conviertan en clientes apóstoles que hablen bien de la empresa.')
     .py-3
     p Con base en lo anterior, se concluye que toda empresa que quiera alcanzar el éxito dentro del mercado debe enfocarse en el cliente. 
     
@@ -203,7 +203,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 7. 
           | Recomendaciones
-        img(src='@/assets/curso/temas/Tema2/img11.svg' alt='')
+        img(src='@/assets/curso/temas/Tema2/img11.svg' alt='Es fundamental definir cuál será la primera experiencia de su cliente, ese primer momento de verdad. Además, es crucial tener claros los diferentes grupos de clientes para poder comunicarse eficazmente con cada uno de ellos. La estrategia de retención de clientes debe ser diseñada según cada comprador, proporcionando una atención personalizada. Mejorar la atención al cliente implica ofrecer diversos canales de atención. Asimismo, es importante implementar programas de fidelización para aquellos clientes leales a la marca y brindar un trato personalizado en todas las interacciones.')
     
     
     separador
