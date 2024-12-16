@@ -22,7 +22,7 @@
           h5 Tabla 1. 
           | Diferencia entre usuario y cliente
       .col-lg-5
-        img.py-2(src='@/assets/curso/temas/Tema1/tabla1.svg', alt='')
+        img.py-2(src='@/assets/curso/temas/Tema1/tabla1.svg', alt='La tabla muestra las diferencias clave entre un usuario y un cliente. El usuario se caracteriza por ser quien utiliza el producto o servicio de manera transitoria, sin ser propietario del mismo y con una relación pasajera. Por otro lado, el cliente es quien paga por el producto, hace un uso definitivo, se queda con el producto y establece una relación a largo plazo como dueño.')
       .col-lg-5
         img(src='@/assets/curso/temas/Tema1/img02.svg', alt='')
     
